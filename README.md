@@ -1,6 +1,8 @@
 # AI Agile 
 
-Notes and demo project from the 2024 KCDC workshop.
+Notes and demo project from the 2024 KCDC workshop. 
+
+[Original workshop repo](https://github.com/heathriel/Sprint-Retrospective-Analysis).
 
 Ideas:
 
